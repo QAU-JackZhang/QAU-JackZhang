@@ -71,7 +71,7 @@ Zhang, Xin-Hao, Zhang, Kai, Tian, Yu, Ruan, Gui-Li, **Zhang, Fa-Li**, Zhu, Ke-Xi
 
 ### 2023
 
-**Zhang, Fa-L#i**, Li, Wei-Dong#, Zhu, Ke-Xin#, Zhou, Xu, Li, Lan, Lee, Tin-Lap, Shen, Wei.
+**Zhang, Fa-Li#**, Li, Wei-Dong#, Zhu, Ke-Xin#, Zhou, Xu, Li, Lan, Lee, Tin-Lap, Shen, Wei.
 
 **Aging-related aneuploidy is associated with mitochondrial imbalance and failure of spindle assembly.**
 
