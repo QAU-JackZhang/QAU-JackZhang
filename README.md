@@ -29,12 +29,8 @@ My current interests include:
 * 🥚 **Oocyte development and maturation**
 * 🌱 **Primordial follicle formation and ovarian reserve**
 * 🧓 **Ovarian aging and reproductive lifespan**
-* 🧬 **Single-cell and spatial transcriptomics**
-* 🔬 **scRNA-seq / scATAC-seq integration**
 * 🧫 **Multi-omics analysis and cell-state transitions**
-* 🧠 **Computational biology and systems biology**
-* ⚡ **Mitochondrial quality control and oocyte aging**
-* 🧪 **Molecular mechanisms underlying embryo developmental competence**
+
 
 > **From single cells to biological mechanisms.**
 
@@ -64,11 +60,6 @@ I am particularly interested in how cellular stress and metabolic dysfunction co
 ### 🧬 Single-cell & Spatial Omics
 
 My computational research focuses on using high-resolution omics technologies to characterize ovarian cellular ecosystems:
-
-
-## 🚀 Publication
-
-### 01 · 
 
 
 ## 💻 Computational Skills
@@ -123,20 +114,6 @@ Statistical Analysis
 
 ---
 
-## 🧪 Research Workflow
-
-```mermaid
-flowchart LR
-    A[Biological Question] --> B[Experimental Design]
-    B --> C[Omics Data]
-    C --> D[Single-cell Analysis]
-    D --> E[Multi-omics Integration]
-    E --> F[Candidate Pathways / Regulators]
-    F --> G[Experimental Validation]
-    G --> H[Mechanistic Model]
-```
-
----
 
 ## 📊 GitHub Statistics
 
@@ -155,79 +132,6 @@ flowchart LR
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QAU-JackZhang&hide_border=true&area=true" />
-</p>
-
----
-
-## 🧰 Research Toolbox
-
-| Category                | Tools                                |
-| ----------------------- | ------------------------------------ |
-| **Single-cell RNA-seq** | Seurat · Scanpy                      |
-| **scATAC-seq**          | Signac · ArchR                       |
-| **Spatial Omics**       | Seurat · Spatial analysis            |
-| **Trajectory**          | Monocle3 · Slingshot                 |
-| **Cell Communication**  | CellChat · CellPhoneDB               |
-| **Regulatory Network**  | SCENIC · chromVAR                    |
-| **Pathway Analysis**    | clusterProfiler · GSEA · GSVA        |
-| **Metabolism**          | scFEA · Compass · Recon2             |
-| **Visualization**       | ggplot2 · ComplexHeatmap · patchwork |
-| **Workflow**            | R · Python · Bash                    |
-| **Reproducibility**     | Git · GitHub                         |
-
----
-
-## 📚 Research Topics
-
-```text
-Reproductive Biology
-│
-├── Oocyte Biology
-│   ├── Oocyte Growth
-│   ├── Oocyte Maturation
-│   ├── GV → MII
-│   └── Developmental Competence
-│
-├── Ovarian Biology
-│   ├── Primordial Follicle Formation
-│   ├── Ovarian Reserve
-│   ├── Follicle Activation
-│   └── Ovarian Aging
-│
-├── Cellular Mechanisms
-│   ├── Autophagy
-│   ├── Mitophagy
-│   ├── Mitochondrial Quality Control
-│   ├── Cellular Stress
-│   └── Inflammation
-│
-└── Computational Biology
-    ├── scRNA-seq
-    ├── scATAC-seq
-    ├── Spatial Transcriptomics
-    ├── Multi-omics Integration
-    └── Systems Biology
-```
-
----
-
-## 🧬 Species of Interest
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/🐖%20Pig-Porcine%20Reproduction-6B7280?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🐭%20Mouse-Oocyte%20Biology-6B7280?style=for-the-badge"/>
-
-</p>
-
-My research particularly focuses on **porcine reproductive biology**, with mouse models used for mechanistic investigation and cross-species comparison.
-
----
-
 ## 📖 Publications
 
 Selected research topics and manuscripts will be listed here.
@@ -240,6 +144,7 @@ Selected research topics and manuscripts will be listed here.
 
 ---
 
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -247,25 +152,6 @@ Selected research topics and manuscripts will be listed here.
 <a href="https://github.com/QAU-JackZhang">
 <img src="https://img.shields.io/badge/GitHub-QAU--JackZhang-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</p>
-
----
-
-## 💡 Research Philosophy
-
-> **Biology generates complexity.
-> Single-cell technologies resolve it.
-> Computation reveals the patterns.
-> Experiments uncover the mechanism.**
-
----
-
-<p align="center">
-
-### 🧬 Reproductive Biology × Single-cell Omics × Computational Biology
-
-**Building reproducible computational tools for biological discovery.**
 
 </p>
 
