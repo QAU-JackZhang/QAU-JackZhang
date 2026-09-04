@@ -311,7 +311,7 @@ My current research interests are centered around the following questions:
 
 <p align="center">
 
-### 🧬 Reproductive Biology × Single-cell Omics × Computational Biology
+
 
 **From omics landscapes to molecular mechanisms.**
 
