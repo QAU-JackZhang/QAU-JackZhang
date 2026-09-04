@@ -162,6 +162,16 @@ Ge, Wei, Wang, Jun-Jie, Zhang, Rui-Qian, Tan, Shao-Jing, **Zhang, Fa-Li**, Liu, 
 
 ---
 
+### 2024
+
+**Zhang, Fa-Li**, Ma, Hao-Hai, Dong, Pei-Yu, Yan, Yu-Mei Chen, Chen, Yu, Yang, Guo-Ming, Shen, Wei, Zhang, Xi-Feng.
+
+**Bacillus licheniformis ameliorates Aflatoxin B1-induced testicular damage by improving the gut-metabolism-testis axis.**
+
+*Journal of Hazardous Materials*, 468, 133836 (2024).
+
+---
+
 ### 2023
 
 **Zhang, Fa-Li**, Zhu, Ke-Xin, Wang, Jing-Ya, Zhang, Min, Yan, Jia-Mao, Liu, Qing-Chun, Zhang, Xiao-Yuan, Guo, Jia-Chen, Liu, Xuan, Sun, Qi-Cheng.
@@ -177,6 +187,28 @@ Wang, Jing-Ya, **Zhang, Fa-Li**, Li, Xiu-Xiu, Zhu, Ke-Xin, Zuo, Ning, Wang, Jun-
 **Cyanidin-3-O-glucoside mitigates the ovarian defect induced by zearalenone via p53-GADD45a signaling during primordial follicle assembly.**
 
 *Journal of Agricultural and Food Chemistry*, 71, 16715–16726 (2023).
+
+
+---
+
+### 2023
+
+**Zhang, Fa-Li**, Ma, Hao-Hai, Dong, Pei-Yu, Yuan, Zheng-Ning, Zhang, Shu-Er, Zhao, Ai-Hong, Liu, Huan-Qi, De Felici, Massimo, Shen, Wei, Zhang, Xi-Feng.
+
+**Aflatoxin B1 disrupts testicular development via the cell cycle-related Ras/PI3K/Akt signaling in mice and pig.**
+
+*Environmental Pollution*, 329, 121729 (2023).
+
+---
+
+
+### 2022
+
+**Zhang, Fa-Li**, Yuan, Shuai, Dong, Pei-Yu, Ma, Hao-Hai, De Felici, Massimo, Shen, Wei, Zhang, Xi-Feng.
+
+**Multi-omics analysis reveals that iron deficiency impairs spermatogenesis by gut-hormone synthesis axis.**
+
+*Ecotoxicology and Environmental Safety*, 248, 114344 (2022).
 
 
 ---
@@ -223,39 +255,6 @@ Wang, Jun-Jie, Tian, Yu, Li, Ming-Hao, Feng, Yan-Qin, Kong, Li, **Zhang, Fa-Li**
 
 ---
 
-## 🧪 Environmental & Reproductive Health
-
-### 2024
-
-**Zhang, Fa-Li**, Ma, Hao-Hai, Dong, Pei-Yu, Yan, Yu-Mei Chen, Chen, Yu, Yang, Guo-Ming, Shen, Wei, Zhang, Xi-Feng.
-
-**Bacillus licheniformis ameliorates Aflatoxin B1-induced testicular damage by improving the gut-metabolism-testis axis.**
-
-*Journal of Hazardous Materials*, 468, 133836 (2024).
-
-
----
-
-### 2023
-
-**Zhang, Fa-Li**, Ma, Hao-Hai, Dong, Pei-Yu, Yuan, Zheng-Ning, Zhang, Shu-Er, Zhao, Ai-Hong, Liu, Huan-Qi, De Felici, Massimo, Shen, Wei, Zhang, Xi-Feng.
-
-**Aflatoxin B1 disrupts testicular development via the cell cycle-related Ras/PI3K/Akt signaling in mice and pig.**
-
-*Environmental Pollution*, 329, 121729 (2023).
-
----
-
-### 2022
-
-**Zhang, Fa-Li**, Yuan, Shuai, Dong, Pei-Yu, Ma, Hao-Hai, De Felici, Massimo, Shen, Wei, Zhang, Xi-Feng.
-
-**Multi-omics analysis reveals that iron deficiency impairs spermatogenesis by gut-hormone synthesis axis.**
-
-*Ecotoxicology and Environmental Safety*, 248, 114344 (2022).
-
-
----
 
 # 💻 Computational Skills
 
