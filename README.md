@@ -38,35 +38,6 @@ I combine experimental approaches with **single-cell, spatial, transcriptomic, e
 
 ---
 
-# 🔬 Research Themes
-
-## 01 · Oocyte & Follicle Biology
-
-My research investigates the molecular mechanisms underlying **oocyte development and primordial follicle formation**, with a particular focus on ovarian reserve establishment and reproductive potential.
-
-**Key topics**
-
-`Oocyte Development` · `Oocyte Maturation` · `Primordial Follicles` · `Ovarian Reserve` · `Developmental Competence`
-
----
-
-## 02 · Ovarian Aging & Mitochondrial Quality Control
-
-A major research direction is understanding how **mitochondrial dysfunction, autophagy and mitophagy** contribute to oocyte aging and reproductive decline.
-
-**Key topics**
-
-`Oocyte Aging` · `Mitochondria` · `Mitophagy` · `Autophagy` · `TBK1` · `Mitochondrial Quality Control`
-
-### Recent research
-
-**Taurine alleviates postovulatory oocyte aging via TBK1 associated mitophagy in pigs and mice**
-
-*Theriogenology · 2025*
-
-
----
-
 
 # 📚 Selected Publications
 
