@@ -68,45 +68,6 @@ A major research direction is understanding how **mitochondrial dysfunction, aut
 
 ---
 
-## 03 · Single-cell & Multi-omics
-
-I use high-resolution omics technologies to resolve cellular heterogeneity and identify regulatory mechanisms in reproductive tissues.
-
-**Approaches**
-
-`scRNA-seq` · `scATAC-seq` · `Spatial Transcriptomics` · `Single-cell Epigenomics` · `Multi-omics Integration`
-
-**Applications**
-
-* Cell-type and cell-state characterization
-* Developmental trajectory analysis
-* Transcription factor activity
-* Chromatin accessibility
-* Gene regulatory networks
-* Cell-cell communication
-* Metabolic remodeling
-* Cross-species comparative analysis
-
----
-
-## 04 · Reproductive Toxicology
-
-Another research direction focuses on understanding how environmental contaminants affect **ovarian and testicular development and reproductive function**.
-
-Major exposure models include:
-
-`Zearalenone` · `DEHP` · `Aflatoxin B1` · `Nanoplastics`
-
-Research interests include:
-
-* Ovarian follicle development
-* Granulosa cell apoptosis
-* Inflammation
-* Reproductive toxicity
-* Gut–metabolism–gonad axis
-* Molecular mechanisms of environmental exposure
-
----
 
 # 📚 Selected Publications
 
