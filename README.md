@@ -31,11 +31,9 @@ I combine experimental approaches with **single-cell, spatial, transcriptomic, e
 * 🥚 **Oocyte development, maturation & developmental competence**
 * 🌱 **Primordial follicle formation & ovarian reserve**
 * 🧓 **Ovarian aging & reproductive lifespan**
-* ⚡ **Mitochondrial quality control & mitophagy**
 * 🧬 **Single-cell & spatial multi-omics**
 * 🧫 **Reproductive toxicology & environmental exposure**
-* 🔬 **Cross-species comparative genomics**
-* 🧠 **Systems biology & computational biology**
+
 
 > **From single cells to biological mechanisms.**
 
@@ -323,40 +321,6 @@ Ge, Wei, Wang, Jun-Jie, Zhang, Rui-Qian, Tan, Shao-Jing, **Zhang, Fa-Li**, Liu, 
 
 ---
 
-# 📊 Research Evolution
-
-My research has evolved from **comparative transcriptomics and reproductive toxicology** toward **single-cell multi-omics and mechanistic studies of oocyte aging**.
-
-```text
-Comparative Transcriptomics
-          │
-          ▼
-Reproductive Toxicology
-          │
-          ▼
-Whole Transcriptome Analysis
-          │
-          ▼
-Single-cell Transcriptomics
-          │
-          ▼
-Single-cell Epigenomics
-          │
-          ▼
-Multi-omics Integration
-          │
-          ▼
-Oocyte & Follicle Biology
-          │
-          ▼
-Mitochondrial Quality Control
-          │
-          ▼
-Oocyte Aging & Reproductive Lifespan
-```
-
----
-
 # 💻 Computational Skills
 
 ## Languages
@@ -466,20 +430,6 @@ My current research interests are centered around the following questions:
 
 ### 🧓 What molecular mechanisms drive ovarian and oocyte aging?
 
-### ⚡ How does mitochondrial quality control determine oocyte developmental competence?
-
-### 🌱 How do environmental exposures reshape ovarian cellular ecosystems?
-
-### 🔬 Can single-cell and multi-omics approaches reveal new mechanisms of reproductive aging?
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=QAU-JackZhang&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QAU-JackZhang&layout=compact&hide_border=true&langs_count=8" />
-</p>
 
 ---
 
