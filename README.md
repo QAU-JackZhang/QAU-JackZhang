@@ -47,7 +47,7 @@ My publication history spans **reproductive biology, comparative transcriptomics
 
 ### 2025
 
-**Zhang, Fa-Li**, Gao, Chen-Xi, Li, Wen-Wen, Li, Ai-Ying, Li, Lan, Shen, Wei.
+**Zhang, Fa-Li#**, Gao, Chen-Xi#, Li, Wen-Wen#, Li, Ai-Ying, Li, Lan, Shen, Wei.
 
 **Taurine alleviates postovulatory oocyte aging via TBK1 associated mitophagy in pigs and mice.**
 
@@ -71,7 +71,7 @@ Zhang, Xin-Hao, Zhang, Kai, Tian, Yu, Ruan, Gui-Li, **Zhang, Fa-Li**, Zhu, Ke-Xi
 
 ### 2023
 
-**Zhang, Fa-Li**, Li, Wei-Dong, Zhu, Ke-Xin, Zhou, Xu, Li, Lan, Lee, Tin-Lap, Shen, Wei.
+**Zhang, Fa-L#i**, Li, Wei-Dong#, Zhu, Ke-Xin#, Zhou, Xu, Li, Lan, Lee, Tin-Lap, Shen, Wei.
 
 **Aging-related aneuploidy is associated with mitochondrial imbalance and failure of spindle assembly.**
 
@@ -80,7 +80,7 @@ Zhang, Xin-Hao, Zhang, Kai, Tian, Yu, Ruan, Gui-Li, **Zhang, Fa-Li**, Zhu, Ke-Xi
 
 ---
 
-**Zhang, Fa-Li**, Li, Wei-Dong, Zhang, Geng, Zhang, Min, Liu, Zhao-Jun, Zhu, Ke-Xin, Liu, Qing-Chun, Zhang, Shu-Er, Shen, Wei, Zhang, Xi-Feng.
+**Zhang, Fa-Li#**, Li, Wei-Dong#, Zhang, Geng, Zhang, Min, Liu, Zhao-Jun, Zhu, Ke-Xin, Liu, Qing-Chun, Zhang, Shu-Er, Shen, Wei, Zhang, Xi-Feng.
 
 **Identification of unique transcriptomic signatures through integrated multispecies comparative analysis and WGCNA in bovine oocyte development.**
 
@@ -125,7 +125,7 @@ Ge, Wei, Wang, Jun-Jie, Zhang, Rui-Qian, Tan, Shao-Jing, **Zhang, Fa-Li**, Liu, 
 
 ### 2025
 
-**Zhang, Fa-Li**, Li, Ai-Ying, Zhu, Ke-Xin, Zhang, Kai, Tian, Zhe, Wang, Tao, Zhang, Xin-Hao, Zang, Jian, Sun, Xiao-Feng, Shen, Wei.
+**Zhang, Fa-Li#**, Li, Ai-Ying#, Zhu, Ke-Xin#, Zhang, Kai, Tian, Zhe, Wang, Tao, Zhang, Xin-Hao, Zang, Jian, Sun, Xiao-Feng, Shen, Wei.
 
 **Integrated multi-omics analysis uncovers Zearalenone-induced ovarian and intestinal inflammation is mediated by tumor necrosis factor-α.**
 
@@ -135,7 +135,7 @@ Ge, Wei, Wang, Jun-Jie, Zhang, Rui-Qian, Tan, Shao-Jing, **Zhang, Fa-Li**, Liu, 
 
 ### 2024
 
-**Zhang, Fa-Li**, Ma, Hao-Hai, Dong, Pei-Yu, Yan, Yu-Mei Chen, Chen, Yu, Yang, Guo-Ming, Shen, Wei, Zhang, Xi-Feng.
+**Zhang, Fa-Li#**, Ma, Hao-Hai#, Dong, Pei-Yu, Yan, Yu-Mei Chen, Chen, Yu, Yang, Guo-Ming, Shen, Wei, Zhang, Xi-Feng.
 
 **Bacillus licheniformis ameliorates Aflatoxin B1-induced testicular damage by improving the gut-metabolism-testis axis.**
 
@@ -204,7 +204,7 @@ Wang, Jun-Jie, Tian, Yu, Li, Ming-Hao, Feng, Yan-Qin, Kong, Li, **Zhang, Fa-Li**
 
 ### 2020
 
-**Li, Na**, Liu, Xue-Lian, **Zhang, Fa-Li**, Tian, Yu, Zhu, Min, Meng, Ling-Yu, Dyce, Paul W, Shen, Wei, Li, Lan.
+Li, Na, Liu, Xue-Lian, **Zhang, Fa-Li**, Tian, Yu, Zhu, Min, Meng, Ling-Yu, Dyce, Paul W, Shen, Wei, Li, Lan.
 
 **Whole-transcriptome analysis of the toxic effects of zearalenone exposure on ceRNA networks in porcine granulosa cells.**
 
