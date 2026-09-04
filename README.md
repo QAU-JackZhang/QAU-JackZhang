@@ -3,7 +3,7 @@
 ### Reproductive Biology · Oocyte Development · Ovarian Aging · Computational Biology
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Reproductive+Biology+%7C+Computational+Biology;Oocyte+Development+%7C+Ovarian+Aging;Single-cell+%7C+Spatial+Transcriptomics+%7C+Multi-omics;From+Omics+to+Mechanism" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=850&lines=Reproductive+Biology+%7C+Computational+Biology;Oocyte+Development+%7C+Ovarian+Aging;Single-cell+%7C+Spatial+Transcriptomics+%7C+Multi-omics;From+Omics+to+Mechanism" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,51 +20,346 @@
 
 ## 🧬 About Me
 
-I am a researcher working at the intersection of **reproductive biology and computational biology**, with a particular interest in understanding how molecular and cellular changes shape **oocyte development, ovarian function, ovarian aging, and early embryonic development**.
+I am a researcher working at the intersection of **reproductive biology, molecular biology, and computational biology**.
 
-My research combines **experimental biology with single-cell and spatial multi-omics approaches** to move from cellular landscapes to molecular mechanisms.
+My research focuses on understanding how molecular, cellular, and metabolic changes regulate **oocyte development, primordial follicle formation, ovarian function, reproductive aging, and embryonic developmental competence**.
 
-My current interests include:
+I combine experimental approaches with **single-cell, spatial, transcriptomic, epigenomic, and multi-omics analyses** to investigate reproductive biology from cellular landscapes to molecular mechanisms.
 
-* 🥚 **Oocyte development and maturation**
-* 🌱 **Primordial follicle formation and ovarian reserve**
-* 🧓 **Ovarian aging and reproductive lifespan**
-* 🧫 **Multi-omics analysis and cell-state transitions**
+### Research interests
 
+* 🥚 **Oocyte development, maturation & developmental competence**
+* 🌱 **Primordial follicle formation & ovarian reserve**
+* 🧓 **Ovarian aging & reproductive lifespan**
+* ⚡ **Mitochondrial quality control & mitophagy**
+* 🧬 **Single-cell & spatial multi-omics**
+* 🧫 **Reproductive toxicology & environmental exposure**
+* 🔬 **Cross-species comparative genomics**
+* 🧠 **Systems biology & computational biology**
 
 > **From single cells to biological mechanisms.**
 
 ---
 
-## 🔬 Research Interests
+# 🔬 Research Themes
 
-### 🥚 Oocyte & Follicle Biology
+## 01 · Oocyte & Follicle Biology
 
-Understanding the molecular mechanisms regulating:
+My research investigates the molecular mechanisms underlying **oocyte development and primordial follicle formation**, with a particular focus on ovarian reserve establishment and reproductive potential.
 
-* Oocyte growth and maturation
-* Primordial follicle assembly
-* Ovarian reserve establishment
-* Oocyte quality and developmental competence
+**Key topics**
 
-### 🧓 Ovarian Aging
+`Oocyte Development` · `Oocyte Maturation` · `Primordial Follicles` · `Ovarian Reserve` · `Developmental Competence`
 
-I am particularly interested in how cellular stress and metabolic dysfunction contribute to ovarian aging, including:
+---
 
-* Mitochondrial quality control
-* Autophagy and mitophagy
-* Inflammation
+## 02 · Ovarian Aging & Mitochondrial Quality Control
+
+A major research direction is understanding how **mitochondrial dysfunction, autophagy and mitophagy** contribute to oocyte aging and reproductive decline.
+
+**Key topics**
+
+`Oocyte Aging` · `Mitochondria` · `Mitophagy` · `Autophagy` · `TBK1` · `Mitochondrial Quality Control`
+
+### Recent research
+
+**Taurine alleviates postovulatory oocyte aging via TBK1 associated mitophagy in pigs and mice**
+
+*Theriogenology · 2025*
+
+This work highlights the importance of **TBK1-associated mitophagy** in regulating postovulatory oocyte aging across pigs and mice.
+
+---
+
+## 03 · Single-cell & Multi-omics
+
+I use high-resolution omics technologies to resolve cellular heterogeneity and identify regulatory mechanisms in reproductive tissues.
+
+**Approaches**
+
+`scRNA-seq` · `scATAC-seq` · `Spatial Transcriptomics` · `Single-cell Epigenomics` · `Multi-omics Integration`
+
+**Applications**
+
+* Cell-type and cell-state characterization
+* Developmental trajectory analysis
+* Transcription factor activity
+* Chromatin accessibility
+* Gene regulatory networks
+* Cell-cell communication
 * Metabolic remodeling
+* Cross-species comparative analysis
 
+---
 
-### 🧬 Single-cell & Spatial Omics
+## 04 · Reproductive Toxicology
 
-My computational research focuses on using high-resolution omics technologies to characterize ovarian cellular ecosystems:
+Another research direction focuses on understanding how environmental contaminants affect **ovarian and testicular development and reproductive function**.
 
+Major exposure models include:
 
-## 💻 Computational Skills
+`Zearalenone` · `DEHP` · `Aflatoxin B1` · `Nanoplastics`
 
-### Languages
+Research interests include:
+
+* Ovarian follicle development
+* Granulosa cell apoptosis
+* Inflammation
+* Reproductive toxicity
+* Gut–metabolism–gonad axis
+* Molecular mechanisms of environmental exposure
+
+---
+
+# 📚 Selected Publications
+
+My publication history spans **reproductive biology, comparative transcriptomics, single-cell multi-omics, reproductive toxicology, and mitochondrial regulation of oocyte aging**.
+
+## 🧓 Oocyte Aging & Mitochondrial Quality Control
+
+### 2025
+
+**Zhang, Fa-Li**, Gao, Chen-Xi, Li, Wen-Wen, Li, Ai-Ying, Li, Lan, Shen, Wei.
+
+**Taurine alleviates postovulatory oocyte aging via TBK1 associated mitophagy in pigs and mice.**
+
+*Theriogenology*, 246, 117531 (2025).
+
+`Oocyte Aging` · `Mitophagy` · `TBK1` · `Mitochondria` · `Pig` · `Mouse`
+
+---
+
+## 🥚 Oocyte Development & Follicle Biology
+
+### 2026
+
+Zhang, Xin-Hao, Zhang, Kai, Tian, Yu, Ruan, Gui-Li, **Zhang, Fa-Li**, Zhu, Ke-Xin, Li, Ai-Ying, Shen, Wei, Wang, Jun-Jie.
+
+**Dissecting the transcriptomic signature of porcine oocyte during primordial follicle formation from single cell resolution.**
+
+*Journal of Ovarian Research* (2026).
+
+`Porcine Ovary` · `Oocyte` · `Primordial Follicle` · `scRNA-seq`
+
+---
+
+### 2023
+
+**Zhang, Fa-Li**, Li, Wei-Dong, Zhu, Ke-Xin, Zhou, Xu, Li, Lan, Lee, Tin-Lap, Shen, Wei.
+
+**Aging-related aneuploidy is associated with mitochondrial imbalance and failure of spindle assembly.**
+
+*Cell Death Discovery*, 9, 235 (2023).
+
+`Oocyte Aging` · `Aneuploidy` · `Mitochondria` · `Spindle Assembly`
+
+---
+
+**Zhang, Fa-Li**, Li, Wei-Dong, Zhang, Geng, Zhang, Min, Liu, Zhao-Jun, Zhu, Ke-Xin, Liu, Qing-Chun, Zhang, Shu-Er, Shen, Wei, Zhang, Xi-Feng.
+
+**Identification of unique transcriptomic signatures through integrated multispecies comparative analysis and WGCNA in bovine oocyte development.**
+
+*BMC Genomics*, 24, 265 (2023).
+
+`Bovine Oocyte` · `Transcriptomics` · `WGCNA` · `Cross-species Analysis`
+
+---
+
+### 2022
+
+**Zhang, Fa-Li**, Zhang, Shu-Er, Sun, Yu-Jiang, Wang, Jun-Jie, Shen, Wei.
+
+**Comparative transcriptomics uncover the uniqueness of oocyte development in the donkey.**
+
+*Frontiers in Genetics*, 13, 839207 (2022).
+
+`Oocyte Development` · `Comparative Transcriptomics` · `Donkey`
+
+---
+
+## 🧬 Single-cell & Epigenomic Research
+
+### 2023
+
+**Zhang, Fa-Li**, Feng, Yan-Qin, Wang, Jing-Ya, Zhu, Ke-Xin, Wang, Lu, Yan, Jia-Mao, Li, Xiu-Xiu, Wang, Jun-Jie, Ge, Wei, De Felici, Massimo.
+
+**Single cell epigenomic and transcriptomic analysis uncovers potential transcription factors regulating mitotic/meiotic switch.**
+
+*Cell Death & Disease*, 14, 134 (2023).
+
+`scRNA-seq` · `Single-cell Epigenomics` · `Transcription Factors` · `Meiosis`
+
+---
+
+### 2021
+
+Ge, Wei, Wang, Jun-Jie, Zhang, Rui-Qian, Tan, Shao-Jing, **Zhang, Fa-Li**, Liu, Wen-Xiang, Li, Lan, Sun, Xiao-Feng, Cheng, Shun-Feng, Dyce, Paul W.
+
+**Dissecting the initiation of female meiosis in the mouse at single-cell resolution.**
+
+*Cellular and Molecular Life Sciences*, 78, 695–713 (2021).
+
+`Single-cell RNA-seq` · `Female Meiosis` · `Mouse Ovary`
+
+---
+
+## ☣️ Reproductive Toxicology
+
+### 2025
+
+**Zhang, Fa-Li**, Li, Ai-Ying, Zhu, Ke-Xin, Zhang, Kai, Tian, Zhe, Wang, Tao, Zhang, Xin-Hao, Zang, Jian, Sun, Xiao-Feng, Shen, Wei.
+
+**Integrated multi-omics analysis uncovers Zearalenone-induced ovarian and intestinal inflammation is mediated by tumor necrosis factor-α.**
+
+*Journal of Hazardous Materials*, 139476 (2025).
+
+`Zearalenone` · `Ovary` · `Intestine` · `Inflammation` · `TNF-α` · `Multi-omics`
+
+---
+
+### 2023
+
+**Zhang, Fa-Li**, Zhu, Ke-Xin, Wang, Jing-Ya, Zhang, Min, Yan, Jia-Mao, Liu, Qing-Chun, Zhang, Xiao-Yuan, Guo, Jia-Chen, Liu, Xuan, Sun, Qi-Cheng.
+
+**Cross-species analysis of transcriptome emphasizes a critical role of TNF-α in mediating MAP2K7/AKT2 signaling in zearalenone-induced apoptosis.**
+
+*Journal of Hazardous Materials*, 459, 132226 (2023).
+
+`Zearalenone` · `TNF-α` · `MAP2K7` · `AKT2` · `Cross-species Analysis`
+
+---
+
+**Wang, Jing-Ya**, **Zhang, Fa-Li**, Li, Xiu-Xiu, Zhu, Ke-Xin, Zuo, Ning, Wang, Jun-Jie, Shen, Wei, Li, Lan.
+
+**Cyanidin-3-O-glucoside mitigates the ovarian defect induced by zearalenone via p53-GADD45a signaling during primordial follicle assembly.**
+
+*Journal of Agricultural and Food Chemistry*, 71, 16715–16726 (2023).
+
+`Zearalenone` · `Primordial Follicles` · `p53` · `GADD45a`
+
+---
+
+### 2021
+
+**Wang, Jun-Jie**, Tian, Yu, Li, Ming-Hao, Feng, Yan-Qin, Kong, Li, **Zhang, Fa-Li**, Shen, Wei.
+
+**Single-cell transcriptome dissection of the toxic impact of di(2-ethylhexyl) phthalate on primordial follicle assembly.**
+
+*Theranostics*, 11, 4992 (2021).
+
+`scRNA-seq` · `DEHP` · `Primordial Follicles` · `Reproductive Toxicology`
+
+---
+
+**Zhang, Fa-Li**, Kong, Li, Zhao, Ai-Hong, Ge, Wei, Yan, Zi-Hui, Li, Lan, De Felici, Massimo, Shen, Wei.
+
+**Inflammatory cytokines as key players of apoptosis induced by environmental estrogens in the ovary.**
+
+*Environmental Research*, 198, 111225 (2021).
+
+`Environmental Estrogens` · `Inflammation` · `Ovary` · `Apoptosis`
+
+---
+
+### 2020
+
+**Li, Na**, Liu, Xue-Lian, **Zhang, Fa-Li**, Tian, Yu, Zhu, Min, Meng, Ling-Yu, Dyce, Paul W, Shen, Wei, Li, Lan.
+
+**Whole-transcriptome analysis of the toxic effects of zearalenone exposure on ceRNA networks in porcine granulosa cells.**
+
+*Environmental Pollution*, 261, 114007 (2020).
+
+`Zearalenone` · `Granulosa Cells` · `ceRNA` · `Transcriptomics`
+
+---
+
+### 2019
+
+**Zhang, Fa-Li**, Li, Na, Wang, Han, Ma, Jin-Mei, Shen, Wei, Li, Lan.
+
+**Zearalenone exposure induces the apoptosis of porcine granulosa cells and changes long noncoding RNA expression to promote antiapoptosis by activating the JAK2–STAT3 pathway.**
+
+*Journal of Agricultural and Food Chemistry*, 67, 12117–12128 (2019).
+
+`Zearalenone` · `Granulosa Cells` · `lncRNA` · `JAK2–STAT3`
+
+---
+
+## 🧪 Environmental & Reproductive Health
+
+### 2024
+
+**Zhang, Fa-Li**, Ma, Hao-Hai, Dong, Pei-Yu, Yan, Yu-Mei Chen, Chen, Yu, Yang, Guo-Ming, Shen, Wei, Zhang, Xi-Feng.
+
+**Bacillus licheniformis ameliorates Aflatoxin B1-induced testicular damage by improving the gut-metabolism-testis axis.**
+
+*Journal of Hazardous Materials*, 468, 133836 (2024).
+
+`Aflatoxin B1` · `Testis` · `Gut–Metabolism–Testis Axis`
+
+---
+
+### 2023
+
+**Zhang, Fa-Li**, Ma, Hao-Hai, Dong, Pei-Yu, Yuan, Zheng-Ning, Zhang, Shu-Er, Zhao, Ai-Hong, Liu, Huan-Qi, De Felici, Massimo, Shen, Wei, Zhang, Xi-Feng.
+
+**Aflatoxin B1 disrupts testicular development via the cell cycle-related Ras/PI3K/Akt signaling in mice and pig.**
+
+*Environmental Pollution*, 329, 121729 (2023).
+
+`Aflatoxin B1` · `Testicular Development` · `Ras/PI3K/Akt` · `Pig` · `Mouse`
+
+---
+
+### 2022
+
+**Zhang, Fa-Li**, Yuan, Shuai, Dong, Pei-Yu, Ma, Hao-Hai, De Felici, Massimo, Shen, Wei, Zhang, Xi-Feng.
+
+**Multi-omics analysis reveals that iron deficiency impairs spermatogenesis by gut-hormone synthesis axis.**
+
+*Ecotoxicology and Environmental Safety*, 248, 114344 (2022).
+
+`Multi-omics` · `Spermatogenesis` · `Iron Deficiency` · `Gut–Hormone Axis`
+
+---
+
+# 📊 Research Evolution
+
+My research has evolved from **comparative transcriptomics and reproductive toxicology** toward **single-cell multi-omics and mechanistic studies of oocyte aging**.
+
+```text
+Comparative Transcriptomics
+          │
+          ▼
+Reproductive Toxicology
+          │
+          ▼
+Whole Transcriptome Analysis
+          │
+          ▼
+Single-cell Transcriptomics
+          │
+          ▼
+Single-cell Epigenomics
+          │
+          ▼
+Multi-omics Integration
+          │
+          ▼
+Oocyte & Follicle Biology
+          │
+          ▼
+Mitochondrial Quality Control
+          │
+          ▼
+Oocyte Aging & Reproductive Lifespan
+```
+
+---
+
+# 💻 Computational Skills
+
+## Languages
 
 <p>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
@@ -72,7 +367,7 @@ My computational research focuses on using high-resolution omics technologies to
 <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white"/>
 </p>
 
-### Single-cell & Multi-omics
+## Single-cell & Multi-omics
 
 <p>
 <img src="https://img.shields.io/badge/Seurat-4E79A7?style=flat-square"/>
@@ -83,22 +378,22 @@ My computational research focuses on using high-resolution omics technologies to
 <img src="https://img.shields.io/badge/SCENIC-8A2BE2?style=flat-square"/>
 </p>
 
-### Bioinformatics
+## Bioinformatics
 
 ```text
 RNA-seq
 scRNA-seq
 scATAC-seq
 Spatial Transcriptomics
+Single-cell Epigenomics
 Trajectory Analysis
 Cell-cell Communication
 Gene Regulatory Networks
-Pathway Analysis
-Metabolic Network Analysis
+Cross-species Comparative Analysis
 Multi-omics Integration
 ```
 
-### Data Analysis
+## Quantitative Analysis
 
 ```text
 Differential Expression
@@ -107,15 +402,88 @@ Pseudotime Analysis
 Transcription Factor Activity
 Chromatin Accessibility
 Metabolic Flux Analysis
-Cohen's d / Effect Size
-Visualization
+WGCNA
+Effect Size / Cohen's d
 Statistical Analysis
+Data Visualization
 ```
 
 ---
 
+# 🧰 Research Toolbox
 
-## 🔥 Contribution Streak
+| Category               | Tools                                |
+| ---------------------- | ------------------------------------ |
+| **scRNA-seq**          | Seurat · Scanpy                      |
+| **scATAC-seq**         | Signac · ArchR                       |
+| **Spatial Omics**      | Seurat · Spatial Transcriptomics     |
+| **Trajectory**         | Monocle3 · Slingshot                 |
+| **Cell Communication** | CellChat · CellPhoneDB               |
+| **Regulatory Network** | SCENIC · chromVAR                    |
+| **Pathway Analysis**   | clusterProfiler · GSEA · GSVA        |
+| **Network Analysis**   | WGCNA                                |
+| **Metabolism**         | scFEA · Compass · Recon2             |
+| **Visualization**      | ggplot2 · ComplexHeatmap · patchwork |
+| **Workflow**           | R · Python · Bash · Git              |
+
+---
+
+# 🧬 Biological Systems
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🐖%20Pig-Porcine%20Reproduction-6B7280?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐭%20Mouse-Reproductive%20Biology-6B7280?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🫏%20Donkey-Comparative%20Reproduction-6B7280?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐄%20Cattle-Oocyte%20Development-6B7280?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🔬 Research Workflow
+
+```mermaid
+flowchart LR
+    A[Biological Question] --> B[Experimental Design]
+    B --> C[Omics Data]
+    C --> D[Single-cell Analysis]
+    D --> E[Multi-omics Integration]
+    E --> F[Candidate Regulators]
+    F --> G[Mechanistic Validation]
+    G --> H[Biological Model]
+```
+
+---
+
+# 🚀 Future Research Directions
+
+My current research interests are centered around the following questions:
+
+### 🥚 How is oocyte quality established and maintained?
+
+### 🧬 How do cellular states and regulatory networks change during ovarian development?
+
+### 🧓 What molecular mechanisms drive ovarian and oocyte aging?
+
+### ⚡ How does mitochondrial quality control determine oocyte developmental competence?
+
+### 🌱 How do environmental exposures reshape ovarian cellular ecosystems?
+
+### 🔬 Can single-cell and multi-omics approaches reveal new mechanisms of reproductive aging?
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=QAU-JackZhang&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QAU-JackZhang&layout=compact&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=QAU-JackZhang&hide_border=true" />
@@ -123,22 +491,7 @@ Statistical Analysis
 
 ---
 
-## 📖 Publications
-
-
-
-
-
-### Selected Work
-
-**Single-cell and spatial transcriptomics reveal a conserved TP63–autophagy axis during primordial follicle formation**
-
-`Single-cell RNA-seq` · `Spatial Transcriptomics` · `Ovary` · `Primordial Follicles` · `Autophagy`
-
----
-
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -146,9 +499,30 @@ Statistical Analysis
 <img src="https://img.shields.io/badge/GitHub-QAU--JackZhang-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://scholar.google.com.pk/citations?user=FOaKpjQAAAAJ&hl=zh-CN">
+<img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
+
 </p>
 
 ---
+
+## 💡 Research Philosophy
+
+> **Biology generates complexity.**
+> **Single-cell technologies resolve it.**
+> **Computation reveals the patterns.**
+> **Experiments uncover the mechanism.**
+
+---
+
+<p align="center">
+
+### 🧬 Reproductive Biology × Single-cell Omics × Computational Biology
+
+**From omics landscapes to molecular mechanisms.**
+
+</p>
 
 <p align="center">
   <sub>© 2026 Jack Zhang · Reproductive Biology & Computational Biology</sub>
