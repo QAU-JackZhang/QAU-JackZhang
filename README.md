@@ -1,7 +1,5 @@
 # Hi, I'm Jack Zhang 👋
 
-### Reproductive Biology · Oocyte Development · Ovarian Aging · Computational Biology
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=850&lines=Reproductive+Biology+%7C+Computational+Biology;Oocyte+Development+%7C+Ovarian+Aging;Single-cell+%7C+Spatial+Transcriptomics+%7C+Multi-omics;From+Omics+to+Mechanism" alt="Typing SVG" />
 </p>
