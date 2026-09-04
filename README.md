@@ -249,16 +249,8 @@ Li, Na, Liu, Xue-Lian, **Zhang, Fa-Li**, Tian, Yu, Zhu, Min, Meng, Ling-Yu, Dyce
 ## Bioinformatics
 
 ```text
-RNA-seq
-scRNA-seq
-scATAC-seq
-Spatial Transcriptomics
-Single-cell Epigenomics
-Trajectory Analysis
-Cell-cell Communication
-Gene Regulatory Networks
-Cross-species Comparative Analysis
-Multi-omics Integration
+Transcriptomics (RNA-seq/scRNA-seq/Spatial)
+Epigenomics (ATAC-seq/scATAC-seq/scBS-seq/CUT&Tag)
 ```
 
 ---
