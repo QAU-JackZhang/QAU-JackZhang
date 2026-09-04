@@ -65,29 +65,6 @@ I am particularly interested in how cellular stress and metabolic dysfunction co
 
 My computational research focuses on using high-resolution omics technologies to characterize ovarian cellular ecosystems:
 
-```text
-scRNA-seq
-   ↓
-Cell clustering & annotation
-   ↓
-Cell-state characterization
-   ↓
-Trajectory / pseudotime analysis
-   ↓
-Cell-cell communication
-   ↓
-Pathway & metabolic analysis
-   ↓
-scATAC-seq integration
-   ↓
-Spatial validation
-   ↓
-Candidate regulators
-   ↓
-Experimental validation
-```
-
----
 
 ## 🚀 Featured Research Projects
 
