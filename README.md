@@ -191,8 +191,6 @@ Wang, Jing-Ya, **Zhang, Fa-Li**, Li, Xiu-Xiu, Zhu, Ke-Xin, Zuo, Ning, Wang, Jun-
 
 ---
 
-### 2023
-
 **Zhang, Fa-Li**, Ma, Hao-Hai, Dong, Pei-Yu, Yuan, Zheng-Ning, Zhang, Shu-Er, Zhao, Ai-Hong, Liu, Huan-Qi, De Felici, Massimo, Shen, Wei, Zhang, Xi-Feng.
 
 **Aflatoxin B1 disrupts testicular development via the cell cycle-related Ras/PI3K/Akt signaling in mice and pig.**
@@ -340,20 +338,7 @@ Data Visualization
 
 ---
 
-# 🔬 Research Workflow
 
-```mermaid
-flowchart LR
-    A[Biological Question] --> B[Experimental Design]
-    B --> C[Omics Data]
-    C --> D[Single-cell Analysis]
-    D --> E[Multi-omics Integration]
-    E --> F[Candidate Regulators]
-    F --> G[Mechanistic Validation]
-    G --> H[Biological Model]
-```
-
----
 
 # 🚀 Future Research Directions
 
@@ -389,15 +374,6 @@ My current research interests are centered around the following questions:
 </a>
 
 </p>
-
----
-
-## 💡 Research Philosophy
-
-> **Biology generates complexity.**
-> **Single-cell technologies resolve it.**
-> **Computation reveals the patterns.**
-> **Experiments uncover the mechanism.**
 
 ---
 
