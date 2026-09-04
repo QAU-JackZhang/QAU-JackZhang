@@ -32,7 +32,6 @@ I combine experimental approaches with **single-cell, spatial, transcriptomic, e
 * 🌱 **Primordial follicle formation & ovarian reserve**
 * 🧓 **Ovarian aging & reproductive lifespan**
 * 🧬 **Single-cell & spatial multi-omics**
-* 🧫 **Reproductive toxicology & environmental exposure**
 
 
 > **From single cells to biological mechanisms.**
