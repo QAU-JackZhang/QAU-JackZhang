@@ -47,23 +47,19 @@ My current interests include:
 Understanding the molecular mechanisms regulating:
 
 * Oocyte growth and maturation
-* GV → MII transition
 * Primordial follicle assembly
 * Ovarian reserve establishment
-* Follicle activation and development
 * Oocyte quality and developmental competence
 
 ### 🧓 Ovarian Aging
 
 I am particularly interested in how cellular stress and metabolic dysfunction contribute to ovarian aging, including:
 
-* Mitochondrial dysfunction
 * Mitochondrial quality control
 * Autophagy and mitophagy
-* Cellular senescence
 * Inflammation
 * Metabolic remodeling
-* Decline of oocyte quality
+
 
 ### 🧬 Single-cell & Spatial Omics
 
