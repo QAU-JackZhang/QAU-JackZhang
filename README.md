@@ -66,49 +66,10 @@ I am particularly interested in how cellular stress and metabolic dysfunction co
 My computational research focuses on using high-resolution omics technologies to characterize ovarian cellular ecosystems:
 
 
-## 🚀 Featured Research Projects
+## 🚀 Publication
 
-### 01 · TP63–Autophagy Axis
+### 01 · 
 
-**Single-cell and spatial transcriptomics reveal a conserved TP63–autophagy axis during primordial follicle formation**
-
-A multi-species research project investigating the molecular mechanisms underlying primordial follicle formation and ovarian reserve establishment.
-
-**Key approaches**
-
-`scRNA-seq` · `Spatial Transcriptomics` · `Trajectory Analysis` · `Regulatory Network` · `Experimental Validation`
-
----
-
-### 02 · Mitochondrial Quality Control & Oocyte Aging
-
-**Mitochondrial quality control imbalance drives post-ovulation oocyte aging**
-
-Investigating how mitochondrial quality control, autophagy and mitophagy contribute to post-ovulation oocyte aging and loss of embryonic developmental competence.
-
-**Key concepts**
-
-`Mitochondria` · `Mitophagy` · `Autophagy` · `TBK1` · `COX10` · `Oocyte Aging`
-
----
-
-### 03 · Ovarian Single-cell Multi-omics
-
-Integrative analysis of ovarian **scRNA-seq + scATAC-seq** datasets to investigate:
-
-* Cellular heterogeneity
-* Cell-state transitions
-* Transcription factor activity
-* Chromatin accessibility
-* Gene regulatory networks
-* Metabolic states
-* Cell-cell communication
-
-**Tools**
-
-`Seurat` · `Signac` · `ArchR` · `Harmony` · `CellChat` · `Monocle3`
-
----
 
 ## 💻 Computational Skills
 
