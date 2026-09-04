@@ -261,21 +261,6 @@ Cross-species Comparative Analysis
 Multi-omics Integration
 ```
 
-## Quantitative Analysis
-
-```text
-Differential Expression
-GSEA / GSVA
-Pseudotime Analysis
-Transcription Factor Activity
-Chromatin Accessibility
-Metabolic Flux Analysis
-WGCNA
-Effect Size / Cohen's d
-Statistical Analysis
-Data Visualization
-```
-
 ---
 
 # 🧰 Research Toolbox
@@ -295,20 +280,6 @@ Data Visualization
 | **Workflow**           | R · Python · Bash · Git              |
 
 ---
-
-# 🧬 Biological Systems
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/🐖%20Pig-Porcine%20Reproduction-6B7280?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🐭%20Mouse-Reproductive%20Biology-6B7280?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🫏%20Donkey-Comparative%20Reproduction-6B7280?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🐄%20Cattle-Oocyte%20Development-6B7280?style=for-the-badge"/>
-
-</p>
-
----
-
 
 
 # 🚀 Future Research Directions
