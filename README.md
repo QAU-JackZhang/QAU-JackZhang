@@ -65,7 +65,6 @@ A major research direction is understanding how **mitochondrial dysfunction, aut
 
 *Theriogenology · 2025*
 
-This work highlights the importance of **TBK1-associated mitophagy** in regulating postovulatory oocyte aging across pigs and mice.
 
 ---
 
@@ -123,7 +122,6 @@ My publication history spans **reproductive biology, comparative transcriptomics
 
 *Theriogenology*, 246, 117531 (2025).
 
-`Oocyte Aging` · `Mitophagy` · `TBK1` · `Mitochondria` · `Pig` · `Mouse`
 
 ---
 
@@ -137,7 +135,6 @@ Zhang, Xin-Hao, Zhang, Kai, Tian, Yu, Ruan, Gui-Li, **Zhang, Fa-Li**, Zhu, Ke-Xi
 
 *Journal of Ovarian Research* (2026).
 
-`Porcine Ovary` · `Oocyte` · `Primordial Follicle` · `scRNA-seq`
 
 ---
 
@@ -149,7 +146,6 @@ Zhang, Xin-Hao, Zhang, Kai, Tian, Yu, Ruan, Gui-Li, **Zhang, Fa-Li**, Zhu, Ke-Xi
 
 *Cell Death Discovery*, 9, 235 (2023).
 
-`Oocyte Aging` · `Aneuploidy` · `Mitochondria` · `Spindle Assembly`
 
 ---
 
@@ -159,7 +155,6 @@ Zhang, Xin-Hao, Zhang, Kai, Tian, Yu, Ruan, Gui-Li, **Zhang, Fa-Li**, Zhu, Ke-Xi
 
 *BMC Genomics*, 24, 265 (2023).
 
-`Bovine Oocyte` · `Transcriptomics` · `WGCNA` · `Cross-species Analysis`
 
 ---
 
@@ -170,8 +165,6 @@ Zhang, Xin-Hao, Zhang, Kai, Tian, Yu, Ruan, Gui-Li, **Zhang, Fa-Li**, Zhu, Ke-Xi
 **Comparative transcriptomics uncover the uniqueness of oocyte development in the donkey.**
 
 *Frontiers in Genetics*, 13, 839207 (2022).
-
-`Oocyte Development` · `Comparative Transcriptomics` · `Donkey`
 
 ---
 
@@ -185,8 +178,6 @@ Zhang, Xin-Hao, Zhang, Kai, Tian, Yu, Ruan, Gui-Li, **Zhang, Fa-Li**, Zhu, Ke-Xi
 
 *Cell Death & Disease*, 14, 134 (2023).
 
-`scRNA-seq` · `Single-cell Epigenomics` · `Transcription Factors` · `Meiosis`
-
 ---
 
 ### 2021
@@ -196,8 +187,6 @@ Ge, Wei, Wang, Jun-Jie, Zhang, Rui-Qian, Tan, Shao-Jing, **Zhang, Fa-Li**, Liu, 
 **Dissecting the initiation of female meiosis in the mouse at single-cell resolution.**
 
 *Cellular and Molecular Life Sciences*, 78, 695–713 (2021).
-
-`Single-cell RNA-seq` · `Female Meiosis` · `Mouse Ovary`
 
 ---
 
@@ -211,8 +200,6 @@ Ge, Wei, Wang, Jun-Jie, Zhang, Rui-Qian, Tan, Shao-Jing, **Zhang, Fa-Li**, Liu, 
 
 *Journal of Hazardous Materials*, 139476 (2025).
 
-`Zearalenone` · `Ovary` · `Intestine` · `Inflammation` · `TNF-α` · `Multi-omics`
-
 ---
 
 ### 2023
@@ -223,29 +210,25 @@ Ge, Wei, Wang, Jun-Jie, Zhang, Rui-Qian, Tan, Shao-Jing, **Zhang, Fa-Li**, Liu, 
 
 *Journal of Hazardous Materials*, 459, 132226 (2023).
 
-`Zearalenone` · `TNF-α` · `MAP2K7` · `AKT2` · `Cross-species Analysis`
-
 ---
 
-**Wang, Jing-Ya**, **Zhang, Fa-Li**, Li, Xiu-Xiu, Zhu, Ke-Xin, Zuo, Ning, Wang, Jun-Jie, Shen, Wei, Li, Lan.
+Wang, Jing-Ya, **Zhang, Fa-Li**, Li, Xiu-Xiu, Zhu, Ke-Xin, Zuo, Ning, Wang, Jun-Jie, Shen, Wei, Li, Lan.
 
 **Cyanidin-3-O-glucoside mitigates the ovarian defect induced by zearalenone via p53-GADD45a signaling during primordial follicle assembly.**
 
 *Journal of Agricultural and Food Chemistry*, 71, 16715–16726 (2023).
 
-`Zearalenone` · `Primordial Follicles` · `p53` · `GADD45a`
 
 ---
 
 ### 2021
 
-**Wang, Jun-Jie**, Tian, Yu, Li, Ming-Hao, Feng, Yan-Qin, Kong, Li, **Zhang, Fa-Li**, Shen, Wei.
+Wang, Jun-Jie, Tian, Yu, Li, Ming-Hao, Feng, Yan-Qin, Kong, Li, **Zhang, Fa-Li**, Shen, Wei.
 
 **Single-cell transcriptome dissection of the toxic impact of di(2-ethylhexyl) phthalate on primordial follicle assembly.**
 
 *Theranostics*, 11, 4992 (2021).
 
-`scRNA-seq` · `DEHP` · `Primordial Follicles` · `Reproductive Toxicology`
 
 ---
 
@@ -255,7 +238,6 @@ Ge, Wei, Wang, Jun-Jie, Zhang, Rui-Qian, Tan, Shao-Jing, **Zhang, Fa-Li**, Liu, 
 
 *Environmental Research*, 198, 111225 (2021).
 
-`Environmental Estrogens` · `Inflammation` · `Ovary` · `Apoptosis`
 
 ---
 
@@ -267,7 +249,6 @@ Ge, Wei, Wang, Jun-Jie, Zhang, Rui-Qian, Tan, Shao-Jing, **Zhang, Fa-Li**, Liu, 
 
 *Environmental Pollution*, 261, 114007 (2020).
 
-`Zearalenone` · `Granulosa Cells` · `ceRNA` · `Transcriptomics`
 
 ---
 
@@ -279,7 +260,6 @@ Ge, Wei, Wang, Jun-Jie, Zhang, Rui-Qian, Tan, Shao-Jing, **Zhang, Fa-Li**, Liu, 
 
 *Journal of Agricultural and Food Chemistry*, 67, 12117–12128 (2019).
 
-`Zearalenone` · `Granulosa Cells` · `lncRNA` · `JAK2–STAT3`
 
 ---
 
@@ -293,7 +273,6 @@ Ge, Wei, Wang, Jun-Jie, Zhang, Rui-Qian, Tan, Shao-Jing, **Zhang, Fa-Li**, Liu, 
 
 *Journal of Hazardous Materials*, 468, 133836 (2024).
 
-`Aflatoxin B1` · `Testis` · `Gut–Metabolism–Testis Axis`
 
 ---
 
@@ -305,8 +284,6 @@ Ge, Wei, Wang, Jun-Jie, Zhang, Rui-Qian, Tan, Shao-Jing, **Zhang, Fa-Li**, Liu, 
 
 *Environmental Pollution*, 329, 121729 (2023).
 
-`Aflatoxin B1` · `Testicular Development` · `Ras/PI3K/Akt` · `Pig` · `Mouse`
-
 ---
 
 ### 2022
@@ -317,7 +294,6 @@ Ge, Wei, Wang, Jun-Jie, Zhang, Rui-Qian, Tan, Shao-Jing, **Zhang, Fa-Li**, Liu, 
 
 *Ecotoxicology and Environmental Safety*, 248, 114344 (2022).
 
-`Multi-omics` · `Spermatogenesis` · `Iron Deficiency` · `Gut–Hormone Axis`
 
 ---
 
