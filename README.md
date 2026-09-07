@@ -37,7 +37,7 @@ I combine experimental approaches with **single-cell, spatial, transcriptomic, e
 ---
 
 
-# 📚 Selected Publications
+# 📚 Publications
 
 My publication history spans **reproductive biology, comparative transcriptomics, single-cell multi-omics, reproductive toxicology, and mitochondrial regulation of oocyte aging**.
 
